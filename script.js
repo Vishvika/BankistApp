@@ -1,5 +1,8 @@
 "use strict";
 
+alert(
+  "Choose among the following IDs & respective pins to Login: \n 1. js, 1111 \n 2. jd, 2222 \n 3. stw, 3333 \n 4. ss, 4444"
+);
 
 // Data
 const account1 = {
